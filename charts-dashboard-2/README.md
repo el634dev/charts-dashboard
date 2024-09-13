@@ -1,4 +1,4 @@
-# Charts-dashboard-2
+# charts-dashboard-2
 > This project is the frontend of the chart-dashboard, it's built using Nextjs and chart.js along with Axios. It's also been linted using ESLint and has Tailwind CSS installed in case I want to add styling.
 
 ## Table of Contents
